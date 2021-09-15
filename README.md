@@ -11,7 +11,7 @@ Things I'm interested in:
 - Computer vision
 - PCB design & microcontroller programming
 - Blockchain technology & crypto
-- 📷 Photo & Video (https://www.instagram.com/jsjyelland/)
+- 📷 Photo & Video - [Instagram](https://instagram.com/jsjyelland)
 - ☕ Coffee
 
 Reach out to me at jsjyelland@gmail.com
