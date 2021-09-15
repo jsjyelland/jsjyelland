@@ -1,4 +1,4 @@
-👋 Hey, I'm James Yelland.
+ ### <samp>**👋 Hey, I'm James Yelland.**</samp>
 
 🎓 I'm a fourth-year mechatronics engineering student at the University of Queensland.
 
