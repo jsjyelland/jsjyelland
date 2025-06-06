@@ -1,11 +1,8 @@
  ### <samp>**👋 Hey, I'm James Yelland.**</samp>
 
-🎓 I'm a sixth-year mechatronics engineering student at the University of Queensland.
+🎓 I'm an intermediate engineer working in the digital team at Hatch.
 
 🤖 I love to work on robotics & AI projects. I used to compete at the RoboCup Junior competition in the soccer division, and have since worked on a few robotics projects with uni.
-
-I currently work as an undergraduate engineer doing discrete-event simulation at Hatch.
-I also develop web & mobile software for a music education company, Accent Publishing.
 
 Things I'm interested in:
 - AI & machine learning
